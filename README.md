@@ -15,7 +15,7 @@ Open to relocation and to remote contract work.
 
 **Live work**
 
-| | |
+| site | what it is |
 |---|---|
 | [trevistudios.com](https://www.trevistudios.com) | my web studio, trilingual (EN/PT/ES) |
 | [getclean-in.com](https://getclean-in.com) | rebuilt off Wix onto static HTML ([source](https://github.com/milhoando-dot/cleanin-site)) |
